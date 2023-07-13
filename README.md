@@ -1,7 +1,7 @@
 ### Hi there, I'm Gaurav Pandey 👋
 
 # 💫 About Me:
-I'm currently working as DevOps Engineer<br>I'm currently learning React, Typescript
+I'm currently working as DevOps Engineer
 
 
 ## 🌐 Socials:
